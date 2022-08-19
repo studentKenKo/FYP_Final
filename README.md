@@ -4,7 +4,7 @@
  
  This project included a websever (backend with python, frontend with React), a database schema, a NLP search program
  
- Installnation guide line
+ Installnation guideline
  
  1.Install Python, React, PosgreSQL database on your computer environment
  
